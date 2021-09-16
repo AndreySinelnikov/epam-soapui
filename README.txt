@@ -13,7 +13,7 @@ GOAL: Add suite and tests
 1. Right-click the root directory, choose to add a new suite.
 2. Suite can be edited (ie with setup/teardown scripts).
 3. Right-click the suite directory, choose to add a test to suite.
-4. Test can be edited (ie with setup/teardown scripts). Scripts can be written in Groovy or Java.
+4. Test can be edited (ie with setup/teardown scripts). Scripts can be written in Groovy or JS.
 
 --------
 
